@@ -1,0 +1,27 @@
+{
+  "name": "cls",
+  "version": "1.0.0",
+  "description": "Proyecto Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CesarOLIVEROS/JS-NODE.git"
+  },
+  "keywords": [
+    "firebase",
+    "node",
+    "npm"
+  ],
+  "author": "Cesar Oliveros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CesarOLIVEROS/JS-NODE/issues"
+  },
+  "homepage": "https://github.com/CesarOLIVEROS/JS-NODE#readme",
+  "dependencies": {
+    "firebase-admin": "^10.0.2"
+  }
+}
